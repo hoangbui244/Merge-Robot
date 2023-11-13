@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ex
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 6669290900034238172, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: -4867696403740294451, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: 440926712086324183, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: 5108695208052862088, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: -2649677907810918709, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: -1527477301302599313, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: -7958253015797682185, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: -5686526761969238997, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    - {fileID: 9084426263569074777, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5686526761969238997, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: 9084426263569074777, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: 6669290900034238172, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: -4867696403740294451, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: 440926712086324183, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: 5108695208052862088, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: -2649677907810918709, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: -1527477301302599313, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  - {fileID: -7958253015797682185, guid: 0fed3f13581ea124aae3fb38015c7e89, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ex8
+  - Ex9
+  - Ex1
+  - Ex2
+  - Ex3
+  - Ex4
+  - Ex5
+  - Ex6
+  - Ex7
+  m_Tag: Ex
+  m_IsVariant: 0
